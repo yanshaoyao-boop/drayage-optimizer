@@ -1,0 +1,3863 @@
+[
+    {
+        "code": "MOB5",
+        "address": "6735 Trippel Road",
+        "city": "Mobile",
+        "state": "AL",
+        "zip": "36619",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DPX1",
+        "address": "500 S. 48th Street",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX3",
+        "address": "6835 West Buckeye Road",
+        "city": "Pheonix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX5",
+        "address": "16980 W Commerce Drive",
+        "city": "Goodyear",
+        "state": "AZ",
+        "zip": "85338",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX6",
+        "address": "4750 West Mohave St",
+        "city": "Pheonix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX7",
+        "address": "800 N 75th Ave",
+        "city": "Pheonix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX8",
+        "address": "800 N 75th Ave",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PHX9",
+        "address": "777 S 79th Ave",
+        "city": "Tolleson",
+        "state": "AZ",
+        "zip": "85353",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "TFC1",
+        "address": "5050 West Mohave St",
+        "city": "Pheonix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "TUS1",
+        "address": "533 W Lower Buckey Road",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UAZ1",
+        "address": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85001",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "XUSH",
+        "address": "7037 West Van Buren Street",
+        "city": "Pheonix",
+        "state": "AZ",
+        "zip": "85043",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ABE7",
+        "address": "12510 Micro Dr",
+        "city": "Mira Loma",
+        "state": "CA",
+        "zip": "91752",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA1",
+        "address": "900 W Florence Ave.",
+        "city": "Inglewood",
+        "state": "CA",
+        "zip": "90301",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA2",
+        "address": "5650 Dolly Ave.",
+        "city": "Buena Park",
+        "state": "CA",
+        "zip": "90621",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA3",
+        "address": "5829 Smithway St.",
+        "city": "Commerce",
+        "state": "CA",
+        "zip": "90040",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA4",
+        "address": "9031 Lurline Ave.",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip": "91311",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA5",
+        "address": "6250 Sycamore Canyon Blvd.",
+        "city": "Riverside",
+        "state": "CA",
+        "zip": "92507",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DLA8",
+        "address": "2815 W. El Segundo Blvd.",
+        "city": "Hawthorne",
+        "state": "CA",
+        "zip": "90250",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSD1",
+        "address": "7130 Miramar Rd. 300A",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92121",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSD2",
+        "address": "2777 Loker Ave W.",
+        "city": "Carlsbad",
+        "state": "CA",
+        "zip": "92010",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "FAT1",
+        "address": "3575 S Orange Ave",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93725",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "HCA3",
+        "address": "3334 N SAN FERNANDO RD BLDG E",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90065",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAX2",
+        "address": "5650 DOLLY AVE.",
+        "city": "BUENA PARK",
+        "state": "CA",
+        "zip": "90621",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAX5",
+        "address": "6400 Valley View St",
+        "city": "BUENA PARK",
+        "state": "CA",
+        "zip": "90620",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAX6",
+        "address": "5119 District Blvd",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90058",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LGB1",
+        "address": "2417 E. Carson St",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90810",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LGB3",
+        "address": "4950 Goodman Way",
+        "city": "Eastvale",
+        "state": "CA",
+        "zip": "92880",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LGB4",
+        "address": "27517 Pioneer Ave",
+        "city": "Redlands",
+        "state": "CA",
+        "zip": "92374",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LGB6",
+        "address": "20901 Krameria Ave",
+        "city": "Riverside",
+        "state": "CA",
+        "zip": "92518",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LGB8",
+        "address": "1568 N Linden Ave",
+        "city": "RIALTO",
+        "state": "CA",
+        "zip": "92376",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT2",
+        "address": "1910 E Central Ave",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT3",
+        "address": "1910 E. Central Ave.",
+        "city": "San Bernadino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT4",
+        "address": "1910 E Central Ave",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT5",
+        "address": "2020 E. Central Ave. Bldg. 4",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT6",
+        "address": "24208 San Michele Rd",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "zip": "92551",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT7",
+        "address": "2020 E Central Ave",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT8",
+        "address": "24300 Nandina Ave",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "zip": "92551",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ONT9",
+        "address": "2125 West San Bernardino Ave",
+        "city": "Redlands",
+        "state": "CA",
+        "zip": "92374",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PCA2",
+        "address": "1650 East Central Avenue",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SNA4",
+        "address": "2496 W Walnut Ave",
+        "city": "Rialto",
+        "state": "CA",
+        "zip": "92376",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SNA6",
+        "address": "5250 Goodman Road",
+        "city": "Eastvale",
+        "state": "CA",
+        "zip": "92880",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SNA7",
+        "address": "555 East Orange Show Rd",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SNA8",
+        "address": "555 East Orange Show Rd",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SNA9",
+        "address": "5250 Goodman Road",
+        "city": "Eastvale",
+        "state": "CA",
+        "zip": "92880",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA2",
+        "address": "",
+        "city": "Redondo Beach",
+        "state": "CA",
+        "zip": "90277",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA3",
+        "address": "11800 W Olympic Blvd.",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90064",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA4",
+        "address": "2006 McGaw Ave.",
+        "city": "Irvine",
+        "state": "CA",
+        "zip": "92614",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA5",
+        "address": "Silver Lake",
+        "city": "Silver Lake",
+        "state": "CA",
+        "zip": "90001",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA6",
+        "address": "2727 Kurtz St.",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92110",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUBD",
+        "address": "17182 Nevada Avenue",
+        "city": "Victorville",
+        "state": "CA",
+        "zip": "92345",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUGE",
+        "address": "3450 DULLES DR",
+        "city": "Mira Loma",
+        "state": "CA",
+        "zip": "91752",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUKF",
+        "address": "18120 Bishop Ave",
+        "city": "Carson",
+        "state": "CA",
+        "zip": "90746",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUMX",
+        "address": "241 E Pacific Coast Hwy",
+        "city": "Wilmington",
+        "state": "CA",
+        "zip": "90744",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUPQ",
+        "address": "9211 Kaiser Way",
+        "city": "Fontana",
+        "state": "CA",
+        "zip": "92335",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUTD",
+        "address": "8291 Milliken Avenue",
+        "city": "Rancho Cucomonga",
+        "state": "CA",
+        "zip": "91730",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "XUSJ",
+        "address": "1590 Tamarind Ave",
+        "city": "Rialto",
+        "state": "CA",
+        "zip": "92376",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "XUSV",
+        "address": "2125 San Bernardino Ave",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAX9",
+        "address": "11263 Oleander Ave",
+        "city": "FONTANA",
+        "state": "CA",
+        "zip": "92337",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "XIX2",
+        "address": "2020 E CENTRAL AVE",
+        "city": "SAN Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DAV1",
+        "address": "1 Shields Ave, Room 182",
+        "city": "Davis",
+        "state": "CA",
+        "zip": "95616",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSF1",
+        "address": "990 Beecher St.",
+        "city": "San Leandro",
+        "state": "CA",
+        "zip": "94577",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSF3",
+        "address": "1700 Montague Expy.",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95131",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSF5",
+        "address": "250 Utah Avenue",
+        "city": "South San Francisco",
+        "state": "CA",
+        "zip": "94080",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSF6",
+        "address": "6015 Giant Road",
+        "city": "Richmond",
+        "state": "CA",
+        "zip": "94080",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK3",
+        "address": "255 Park Center Drive",
+        "city": "Patterson",
+        "state": "CA",
+        "zip": "95363",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK4",
+        "address": "1555 N. Chrisman Rd",
+        "city": "Tracy",
+        "state": "CA",
+        "zip": "95304",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK5",
+        "address": "38811 Cherry Street",
+        "city": "Newark",
+        "state": "CA",
+        "zip": "94560",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK6",
+        "address": "1350 N. MacArthur Drive",
+        "city": "Tracy",
+        "state": "CA",
+        "zip": "95304",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK7",
+        "address": "38811 Cherry St",
+        "city": "Newark",
+        "state": "CA",
+        "zip": "94560",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "OAK8",
+        "address": "1 Middleton Way",
+        "city": "American Canyon",
+        "state": "CA",
+        "zip": "94503",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PCA1",
+        "address": "1565 N MacArthur Drive",
+        "city": "Tracy",
+        "state": "CA",
+        "zip": "95376",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SJC7",
+        "address": "188 Mountain House Parkway",
+        "city": "Tracy",
+        "state": "CA",
+        "zip": "95391",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SMF1",
+        "address": "4900 W Elkhorn Blvd",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95835",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SMF3",
+        "address": "1540 Zephyr St",
+        "city": "STOCKTON",
+        "state": "CA",
+        "zip": "95206",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SMF5",
+        "address": "300 Crocker Dr",
+        "city": "VACAVILLE",
+        "state": "CA",
+        "zip": "95688",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA1",
+        "address": "888 Tennessee Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94112",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA7",
+        "address": "222 Commercial Street",
+        "city": "Sunnyvale",
+        "state": "CA",
+        "zip": "94085",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA8",
+        "address": "3100 San Pablo Ave. Ste 120",
+        "city": "West Berkley",
+        "state": "CA",
+        "zip": "94702",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UCA9",
+        "address": "2934 Ramona Avenue",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95826",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "XUSD",
+        "address": "1909 Zephyr St",
+        "city": "Stockton",
+        "state": "CA",
+        "zip": "95206",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DEN1",
+        "address": "189 W 144th Ave",
+        "city": "Thornton",
+        "state": "CO",
+        "zip": "80023",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DEN2",
+        "address": "24006 East 19th Ave",
+        "city": "Aurora",
+        "state": "CO",
+        "zip": "80019",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DEN3",
+        "address": "14601 Grant Street",
+        "city": "Thornton",
+        "state": "CO",
+        "zip": "80023",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DEN5",
+        "address": "19799 E. 36th Avenue. Majestic Commercenter Building #29",
+        "city": "Aurora",
+        "state": "CO",
+        "zip": "80011",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DEN6",
+        "address": "480 E 55th Ave",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80216",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UCO1",
+        "address": "480 E 55th Ave Suite 100",
+        "city": "Denver",
+        "state": "CO",
+        "zip": "80216",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BDL1",
+        "address": "200 Old Iron Ore Rd",
+        "city": "Windsor",
+        "state": "CT",
+        "zip": "06095",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BDL2",
+        "address": "409 Washington Ave",
+        "city": "North Haven",
+        "state": "CT",
+        "zip": "06473",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BDL5",
+        "address": "29 Research Parkway",
+        "city": "Wallingford",
+        "state": "CT",
+        "zip": "06492",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL1",
+        "address": "1 Centerpoint Blvd.",
+        "city": "New Castle",
+        "state": "DE",
+        "zip": "19720",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL3",
+        "address": "1600 Johnson Way",
+        "city": "New Castle",
+        "state": "DE",
+        "zip": "19720",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL7",
+        "address": "560 Merrimac Ave",
+        "city": "Middletown",
+        "state": "DE",
+        "zip": "19709",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL8",
+        "address": "727 N. Broad Street",
+        "city": "Middletown",
+        "state": "DE",
+        "zip": "19709",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JAX1",
+        "address": "12900 Pecan Park Road",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32218",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JAX2",
+        "address": "12900 Pecan Park Road",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32218",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JAX3",
+        "address": "13333 103rd St",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32221",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JAX5",
+        "address": "4948 Bulls Bay Hwy",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32219",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MCO1",
+        "address": "12340 Boggy Creek Rd",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32824",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UFL4",
+        "address": "7469 Kingspointe Parkway",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32819",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSF",
+        "address": "901 West Landstreet Road Suite C",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32824",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DJA1",
+        "address": "11084 Cabot Commerce Circle",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32226",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DM01",
+        "address": "Tangelo Park",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32189",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DM11",
+        "address": "15600 NW 15th Ave.",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "zip": "33169",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DMI2",
+        "address": "3200 Northwest 67th Avenue",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33122",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MIA1",
+        "address": "14000 NW 37TH AVE.",
+        "city": "OPA-LOCKA",
+        "state": "FL",
+        "zip": "33054",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MIA5",
+        "address": "1900 NW 132nd Place",
+        "city": "Doral (Miami)",
+        "state": "FL",
+        "zip": "33182",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MIA6",
+        "address": "3200 NW 67th Avenue",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33122",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UFL1",
+        "address": "15600 NW 15th Ave",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "zip": "33169",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UFL2",
+        "address": "101 NE 23rd Street",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33137",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UFL3",
+        "address": "4430 East Adamo Suite 305",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33605",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "LAL1",
+        "address": "1760 County Line Rd.",
+        "city": "Lakeland",
+        "state": "FL",
+        "zip": "33811",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MC05",
+        "address": "305 Deen Still Road",
+        "city": "Davenport",
+        "state": "FL",
+        "zip": "33897",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MCO5",
+        "address": "205 Deen Still Road",
+        "city": "Davenport",
+        "state": "FL",
+        "zip": "33897",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PFL1",
+        "address": "1001 13th Avenue East",
+        "city": "Bradenton",
+        "state": "FL",
+        "zip": "34208",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "SUOD",
+        "address": "121 Kelsey Ln",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33619",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TPA1",
+        "address": "3350 Laurel Ridge Ave",
+        "city": "Ruskin",
+        "state": "FL",
+        "zip": "33570",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TPA2",
+        "address": "1760 County Line Rd.",
+        "city": "Lakeland",
+        "state": "FL",
+        "zip": "33811",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ALT9",
+        "address": "(920 Highway 124)",
+        "city": "Braselton",
+        "state": "GA",
+        "zip": "30517",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ATL6",
+        "address": "4200 North Commerce Dr.",
+        "city": "East Point",
+        "state": "GA",
+        "zip": "30344",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ATL7",
+        "address": "6855 Shannon Pkwy",
+        "city": "Union City",
+        "state": "GA",
+        "zip": "30291",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ATL8",
+        "address": "2201 Thorton Road",
+        "city": "Lithia Springs",
+        "state": "GA",
+        "zip": "30122",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ATL9",
+        "address": "2232 Northmont Parkway",
+        "city": "Duluth",
+        "state": "GA",
+        "zip": "30096",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MGE1",
+        "address": "650 Broadway Avenue",
+        "city": "Braselton",
+        "state": "GA",
+        "zip": "30517",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MGE3",
+        "address": "808 Hog Mountain Road",
+        "city": "Jefferson",
+        "state": "GA",
+        "zip": "30549",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MGE5",
+        "address": "235 HOG MOUNTAIN RD",
+        "city": "JEFFERSON",
+        "state": "GA",
+        "zip": "30549",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MGE7",
+        "address": "650 Broadway Avenue",
+        "city": "Braselton",
+        "state": "GA",
+        "zip": "30517",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PGA1",
+        "address": "6200 Fulton Industrial Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30336",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "SAV1",
+        "address": "Georgia Ports Authority Garden City Terminal, Building CFS #2",
+        "city": "Garden City",
+        "state": "GA",
+        "zip": "31408",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "SAV3",
+        "address": "7001 Skipper Rd",
+        "city": "Macon",
+        "state": "GA",
+        "zip": "31216",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UGA1",
+        "address": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30318",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UGA2",
+        "address": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zip": "30318",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UGA3",
+        "address": "2160 Breckinridge Blvd Bldg 100 Suite 100",
+        "city": "Lawrenceville",
+        "state": "GA",
+        "zip": "30043",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUAT",
+        "address": "6855 Shannon Pkwy",
+        "city": "Union City",
+        "state": "GA",
+        "zip": "30291",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUKG",
+        "address": "3201 Centre Parkway",
+        "city": "East Point",
+        "state": "GA",
+        "zip": "30344",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUOJ",
+        "address": "250 Declaration Avenue, Suite 500",
+        "city": "McDonough",
+        "state": "GA",
+        "zip": "30253",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUPK",
+        "address": "6720 Oakley Industrial Blvd",
+        "city": "Union City",
+        "state": "GA",
+        "zip": "30291",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUPN",
+        "address": "340 Westridge Parkway",
+        "city": "McDonough",
+        "state": "GA",
+        "zip": "30253",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DCH1",
+        "address": "2801 S. Western Ave.",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60608",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DCH2",
+        "address": "8220 Austin Ave.",
+        "city": "Morton Grove",
+        "state": "IL",
+        "zip": "60053",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DCH3",
+        "address": "4500 Western Ave.",
+        "city": "Lisle",
+        "state": "IL",
+        "zip": "60532",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HIL1",
+        "address": "1111 Cherry Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60642",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HIL2",
+        "address": "1111 N Cherry Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60642",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW1",
+        "address": "Greater Chicago Area",
+        "city": "Joliet",
+        "state": "IL",
+        "zip": "60433",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW2",
+        "address": "250 Emerald Drive",
+        "city": "Joliet",
+        "state": "IL",
+        "zip": "60433",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW4",
+        "address": "201 EMERALD DR",
+        "city": "Joliet",
+        "state": "IL",
+        "zip": "60433",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW5",
+        "address": "1111 N. Cherry Ave.",
+        "city": "Goose Island",
+        "state": "IL",
+        "zip": "60642",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW6",
+        "address": "1125 W REMINGTON BLVD",
+        "city": "Romeoville",
+        "state": "IL",
+        "zip": "60446",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW7",
+        "address": "6521 W Monee Manhattan Road",
+        "city": "Monee",
+        "state": "IL",
+        "zip": "60449",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW8",
+        "address": "1750 Bridge Drive",
+        "city": "Waukegan",
+        "state": "IL",
+        "zip": "60449",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDW9",
+        "address": "2806 Duke Parkway",
+        "city": "Aurora",
+        "state": "IL",
+        "zip": "60504",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDWX",
+        "address": "2801 S. Western Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60608",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDWY",
+        "address": "Route 59",
+        "city": "Aurora",
+        "state": "IL",
+        "zip": "60563",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MDWZ",
+        "address": "Route 59",
+        "city": "Aurora",
+        "state": "IL",
+        "zip": "60563",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "ORD6",
+        "address": "1250 Mittel Blvd",
+        "city": "Wood Dale",
+        "state": "IL",
+        "zip": "60191",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PIL1",
+        "address": "801 Midpoint Road",
+        "city": "Minooka",
+        "state": "IL",
+        "zip": "60447",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SLT7",
+        "address": "3931 Lakeview Corporate Dr.",
+        "city": "Edwarsville",
+        "state": "IL",
+        "zip": "62025",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "STL4",
+        "address": "3050 Gateway Commerce Center Dr S",
+        "city": "Edwardsville",
+        "state": "IL",
+        "zip": "62025",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "STL6",
+        "address": "3931 Lakeview Corporate Drive",
+        "city": "Edwardsville",
+        "state": "IL",
+        "zip": "62025",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "STL7",
+        "address": "3931 Lakeview Corporate Drive",
+        "city": "Edwardsville",
+        "state": "IL",
+        "zip": "62025",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD2",
+        "address": "1111 N Cherry Ave",
+        "city": "Goose Island",
+        "state": "IL",
+        "zip": "60642",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD3",
+        "address": "401 E Laraway Road",
+        "city": "Joliet",
+        "state": "IL",
+        "zip": "40433",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD7",
+        "address": "2801 S. Western Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60608",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TIL1",
+        "address": "1111 N Cherry Street",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60642",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UIL2",
+        "address": "1250 N Mittel Blvd",
+        "city": "Wood Dale",
+        "state": "IL",
+        "zip": "60191",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUOK",
+        "address": "21837 W. Mississippi Ave",
+        "city": "Elwood",
+        "state": "IL",
+        "zip": "60421",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND1",
+        "address": "4255 Anson Blvd",
+        "city": "Whitestown",
+        "state": "IN",
+        "zip": "46075",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND2",
+        "address": "715 Airtech Pkwy",
+        "city": "Plainfield",
+        "state": "IN",
+        "zip": "46168",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND3",
+        "address": "717 Airtech Pkwy",
+        "city": "Plainfield",
+        "state": "IN",
+        "zip": "46168",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND4",
+        "address": "710 S. Girls School Rd",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46231",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND5",
+        "address": "800 Perry Road",
+        "city": "Plainfield",
+        "state": "IN",
+        "zip": "46168",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND6",
+        "address": "1453 10th Street",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "zip": "47130",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND7",
+        "address": "9101 Orly Drive",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46241",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PIN1",
+        "address": "6161 Decatur Blvd",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zip": "46421",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PISA",
+        "address": "900 Patrol Rd",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "zip": "47130",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF8",
+        "address": "900 Patrol Rd",
+        "city": "Jeffersonville",
+        "state": "IN",
+        "zip": "47130",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUHA",
+        "address": "700 Chase Street",
+        "city": "Gary",
+        "state": "IN",
+        "zip": "46404",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUMC",
+        "address": "650 Commerce Pkwy W Drive",
+        "city": "Greenwood",
+        "state": "IN",
+        "zip": "46143",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "XUSE",
+        "address": "5460 Industial Court Suite 300",
+        "city": "Whitestown",
+        "state": "IN",
+        "zip": "46075",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IND9",
+        "address": "1151 S GRAHAM RD",
+        "city": "GREENWOOD",
+        "state": "IN",
+        "zip": "46143",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MCI1",
+        "address": "16851 W 113th St",
+        "city": "Lenexa",
+        "state": "KS",
+        "zip": "66219",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MCI5",
+        "address": "16851 W 113th St. Lenexa Logistics Center",
+        "city": "Lenexa",
+        "state": "KS",
+        "zip": "66219",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MCI7",
+        "address": "27200 W 157th St",
+        "city": "New Century",
+        "state": "KS",
+        "zip": "66031",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MCIX",
+        "address": "113th Street and Renner Boulevard",
+        "city": "Lenexa",
+        "state": "KS",
+        "zip": "66219",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MKC4",
+        "address": "19645 Waverly Rd",
+        "city": "Edgerton",
+        "state": "KS",
+        "zip": "66021",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MKC6",
+        "address": "6925 Riverview Ave",
+        "city": "Kansas City",
+        "state": "KS",
+        "zip": "66102",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TUL1",
+        "address": "2654 North Highway 169",
+        "city": "Coffeyville",
+        "state": "KS",
+        "zip": "67337",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "XUSK",
+        "address": "31450 W 196th St.",
+        "city": "Edgerton",
+        "state": "KS",
+        "zip": "66021",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG1",
+        "address": "1155 Worldwide Blvd.",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG2",
+        "address": "1600 Worldwide Blvd.",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG3",
+        "address": "3680 Langley Dr.",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG5",
+        "address": "2285 Litton Way",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG7",
+        "address": "2285 Litton Lane",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG8",
+        "address": "7968 Kentucky Drive Suites 2-3",
+        "city": "Florence",
+        "state": "KY",
+        "zip": "41042",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CVG9",
+        "address": "2305 Litton Lane",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IVSA",
+        "address": "4620 Olympic Blvd",
+        "city": "Erlanger",
+        "state": "KY",
+        "zip": "41018",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "IVSB",
+        "address": "3521 Point Pleasant Rd",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "LEX1",
+        "address": "1850 Mercer Drive",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40511",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "LEX2",
+        "address": "172 Trade St.",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40511",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "LEX3",
+        "address": "1850 Mercer Rd",
+        "city": "Lexington",
+        "state": "KY",
+        "zip": "40511",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PICV",
+        "address": "1155 Worldwide Blvd.",
+        "city": "Hebron",
+        "state": "KY",
+        "zip": "41048",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PISB",
+        "address": "376 Zappos.com Blvd",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PISC",
+        "address": "271 Omega Parkway",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF1",
+        "address": "1050 South Columbia",
+        "city": "Campbellsville",
+        "state": "KY",
+        "zip": "42718",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF2",
+        "address": "4360 Robards Ln",
+        "city": "Louisville",
+        "state": "KY",
+        "zip": "40218",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF4",
+        "address": "376 Zappos.com Blvd",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF6",
+        "address": "271 Omega Pkwy",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF7",
+        "address": "300 Omicron Court",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SDF9",
+        "address": "100 W. Thomas P. Echols Lane",
+        "city": "Shepherdsville",
+        "state": "KY",
+        "zip": "40165",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BOS3",
+        "address": "",
+        "city": "Fall River",
+        "state": "MA",
+        "zip": "2720",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BOS5",
+        "address": "1000 Technology Center Drive",
+        "city": "Stoughton",
+        "state": "MA",
+        "zip": "2072",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BOS6",
+        "address": "201 Beachman St",
+        "city": "Everett",
+        "state": "MA",
+        "zip": "2149",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BOS7",
+        "address": "1180 Innovation Way",
+        "city": "Fall River",
+        "state": "MA",
+        "zip": "2722",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DB01",
+        "address": "201 Beacham Street",
+        "city": "Everett (Chelsea)",
+        "state": "MA",
+        "zip": "2149",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DB02",
+        "address": "500 Sprague St.",
+        "city": "Dedham",
+        "state": "MA",
+        "zip": "2026",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UMA3",
+        "address": "30 Northampton Street",
+        "city": "Boston",
+        "state": "MA",
+        "zip": "2118",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BWI0",
+        "address": "2010 Broening Highway",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21224",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BWI2",
+        "address": "2010 Broening Hwy.",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21224",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BWI5",
+        "address": "5001 Holabird Ave.",
+        "city": "Baltimore",
+        "state": "MD",
+        "zip": "21224",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DCA1",
+        "address": "1700 SPARROWS POINT BLVD.",
+        "city": "SPARROWS POINT",
+        "state": "MD",
+        "zip": "21219",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DDC2",
+        "address": "861 E Gude Drive",
+        "city": "Rockville",
+        "state": "MD",
+        "zip": "20850",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MDT2",
+        "address": "600 Principio Parkway",
+        "city": "North East",
+        "state": "MD",
+        "zip": "21901",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "SUOC",
+        "address": "8750 Larkin Rd",
+        "city": "Savage",
+        "state": "MD",
+        "zip": "20763",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSL",
+        "address": "610 Chelsea Rd",
+        "city": "Aberdeen",
+        "state": "MD",
+        "zip": "21001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSM",
+        "address": "610 Chelsea Rd",
+        "city": "Aberdeen",
+        "state": "MD",
+        "zip": "21001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSP",
+        "address": "1100 Woodley Road",
+        "city": "Aberdeen",
+        "state": "MD",
+        "zip": "21001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DET1",
+        "address": "38171 Amrhein Rd",
+        "city": "Livonia",
+        "state": "MI",
+        "zip": "48150",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DET2",
+        "address": "50500 Mound Rd",
+        "city": "Shelby Township",
+        "state": "MI",
+        "zip": "48317",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DTW1",
+        "address": "39000 Amrhein Rd",
+        "city": "Livonia",
+        "state": "MI",
+        "zip": "48150",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DTW3",
+        "address": "23 mile and mound roads",
+        "city": "Shelby",
+        "state": "MI",
+        "zip": "48316",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DTW5",
+        "address": "Brownstown Business Center South, Building 9, 19991 Brownstown Center Dr",
+        "city": "Trenton",
+        "state": "MI",
+        "zip": "48183",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DMN1",
+        "address": "2811 Beverly Drive",
+        "city": "Eagen",
+        "state": "MN",
+        "zip": "55121",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MSP1",
+        "address": "2601 4th Avenue East",
+        "city": "Shakopee",
+        "state": "MN",
+        "zip": "55379",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MSP5",
+        "address": "5825 11th Ave. East",
+        "city": "Shakopee",
+        "state": "MN",
+        "zip": "55379",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MSP9",
+        "address": "9001 Wyoming Ave. North",
+        "city": "Brooklyn Park",
+        "state": "MN",
+        "zip": "55445",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UMN1",
+        "address": "763 Kasota Ave.",
+        "city": "Minneapolis",
+        "state": "MN",
+        "zip": "55414",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "STL5",
+        "address": "462 Hazelwood Logistics Center Dr",
+        "city": "Hazelwood",
+        "state": "MO",
+        "zip": "63042",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CLT1",
+        "address": "7035 Northwinds Drive",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28027",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CLT2",
+        "address": "10240 Old Dowd Road",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28214",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CLT3",
+        "address": "6500 Davidson Hwy",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28027",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CLT5",
+        "address": "1745 Derita Rd.",
+        "city": "Concord",
+        "state": "NC",
+        "zip": "28027",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "RDU5",
+        "address": "1805 TW Alexander Drive",
+        "city": "Durham",
+        "state": "NC",
+        "zip": "27703",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UNC1",
+        "address": "",
+        "city": "Charlotte",
+        "state": "NC",
+        "zip": "28201",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UNC2",
+        "address": "3200 Bush Street",
+        "city": "Raleigh",
+        "state": "NC",
+        "zip": "27609",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BOS1",
+        "address": "10 State St",
+        "city": "Nashua",
+        "state": "NH",
+        "zip": "3063",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ACY2",
+        "address": "1101 E PEARL ST     BURLINGTON,",
+        "city": "BURLINGTON",
+        "state": "NJ",
+        "zip": "08016",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABE8",
+        "address": "401 Independence Road",
+        "city": "Florence",
+        "state": "NJ",
+        "zip": "8518",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABEX",
+        "address": "698 Route 46 West",
+        "city": "Teterboro",
+        "state": "NJ",
+        "zip": "7608",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ACY1",
+        "address": "240 Mantua Grove Rd",
+        "city": "West Deptford",
+        "state": "NJ",
+        "zip": "8066",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ACY5",
+        "address": "2277 Center Square Rd",
+        "city": "Swedesboro, Logan Township",
+        "state": "NJ",
+        "zip": "8085",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DEW1",
+        "address": "2 Empire Boulevard",
+        "city": "Moonachie",
+        "state": "NJ",
+        "zip": "7074",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR1",
+        "address": "50 New Canton Way",
+        "city": "Robinsville",
+        "state": "NJ",
+        "zip": "8691",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR4",
+        "address": "50 New Canton Way",
+        "city": "Robbinsville",
+        "state": "NJ",
+        "zip": "8691",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR5",
+        "address": "301 Blair Road #100",
+        "city": "Woodbridge (Avenel)",
+        "state": "NJ",
+        "zip": "7001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR6",
+        "address": "275 Omar Avenue",
+        "city": "Avenel",
+        "state": "NJ",
+        "zip": "7001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR7",
+        "address": "275 Omar Avenue",
+        "city": "Avenel",
+        "state": "NJ",
+        "zip": "7011",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR8",
+        "address": "8003 Industrial Ave. Building A",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "7008",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "EWR9",
+        "address": "8003 Industrial Parkway",
+        "city": "Carteret, Middlesex",
+        "state": "NJ",
+        "zip": "7008",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "IVSC",
+        "address": "286 Mantua Grove Rd",
+        "city": "West Deptford",
+        "state": "NJ",
+        "zip": "8066",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "IVSD",
+        "address": "800 Arlington Blvd",
+        "city": "Swedesboro",
+        "state": "NJ",
+        "zip": "8085",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "LGA6",
+        "address": "8003 Industrial Avenue",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "7008",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "LGA7",
+        "address": "380 Middlesex Avenue",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "7008",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "LGA8",
+        "address": "380 Middlesex Avenue",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "7008",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "LGA9",
+        "address": "2170 State Route 27",
+        "city": "Edison",
+        "state": "NJ",
+        "zip": "8817",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PNE5",
+        "address": "18 APPLEGATE DR.",
+        "city": "ROBBINSVILLE",
+        "state": "NJ",
+        "zip": "8691",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "SUOE",
+        "address": "74 Kenny Pl",
+        "city": "Saddle Brook",
+        "state": "NJ",
+        "zip": "7663",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TBD5",
+        "address": "8003 Industrial Ave, Building A",
+        "city": "Carteret",
+        "state": "NJ",
+        "zip": "8085",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TBDB",
+        "address": "2 Empire Boulevard",
+        "city": "Moonachie",
+        "state": "NJ",
+        "zip": "7074",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TEB3",
+        "address": "2651 Oldmans Creek Rd",
+        "city": "Logan Township",
+        "state": "NJ",
+        "zip": "8085",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TEB6",
+        "address": "22 Highstown-Cranbury Station Rd",
+        "city": "Cranbury Township",
+        "state": "NJ",
+        "zip": "8512",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "TTN1",
+        "address": "",
+        "city": "Florence",
+        "state": "NJ",
+        "zip": "8518",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UNJ1",
+        "address": "940 Monroe Street",
+        "city": "Hoboken",
+        "state": "NJ",
+        "zip": "7030",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "IVSE",
+        "address": "2951 Marion Dr, Ste 101-103",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89115",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "IVSF",
+        "address": "2821 Marion Dr, Ste 109",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89115",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAS2",
+        "address": "3837 Bay Lake Trail, Suite 111 North",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89030",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAS5",
+        "address": "4410 Nexus Way",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89115",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LAS6",
+        "address": "4550 Nexus Way",
+        "city": "North Las Vegas",
+        "state": "NV",
+        "zip": "89115",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "LASX",
+        "address": "North Lamb Blvd and Tropical Parkway",
+        "city": "North Las Vegas",
+        "state": "NV",
+        "zip": "89081",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "RNO1",
+        "address": "1600 East Newlands Drive",
+        "city": "Fernley",
+        "state": "NV",
+        "zip": "89408",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "RNO2",
+        "address": "8000 North Virginia Street Reno",
+        "city": "Reno",
+        "state": "NV",
+        "zip": "85906",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "RNO3",
+        "address": "555 Milan Dr",
+        "city": "Sparks",
+        "state": "NV",
+        "zip": "89434",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "RNO4",
+        "address": "8000 North Virginia Street",
+        "city": "Reno",
+        "state": "NV",
+        "zip": "89506",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UNV1",
+        "address": "3650 East Post Road. Suite E",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89120",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BUF5",
+        "address": "4201 Walden Ave",
+        "city": "Lancaster",
+        "state": "NY",
+        "zip": "14086",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JFK7",
+        "address": "7 W. 34th St.",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "JFK8",
+        "address": "546 GULF AVE.",
+        "city": "STATEN ISLAND",
+        "state": "NY",
+        "zip": "10314",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CLE2",
+        "address": "21500 Emery Rd",
+        "city": "North Randall",
+        "state": "OH",
+        "zip": "44128",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CLE5",
+        "address": "8685 Independence Parkway",
+        "city": "Twinsburg",
+        "state": "OH",
+        "zip": "44087",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CMH0",
+        "address": "11903 National RD SW Etna Township Park",
+        "city": "Etna",
+        "state": "OH",
+        "zip": "43062",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CMH1",
+        "address": "11903 National Road SW",
+        "city": "Etna",
+        "state": "OH",
+        "zip": "43062",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CMH2",
+        "address": "6050 Gateway Court",
+        "city": "Groveport",
+        "state": "OH",
+        "zip": "43125",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CMH3",
+        "address": "700 GATEWAY BLVD",
+        "city": "MONROE",
+        "state": "OH",
+        "zip": "45050",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DAY3",
+        "address": "700 Gateway Blvd",
+        "city": "Monroe",
+        "state": "OH",
+        "zip": "45050",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "LCK1",
+        "address": "",
+        "city": "Obetz",
+        "state": "OH",
+        "zip": "43207",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "POH1",
+        "address": "3880 Groveport Road",
+        "city": "Obetz",
+        "state": "OH",
+        "zip": "43207",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD8",
+        "address": "Etna Township Park",
+        "city": "Etna",
+        "state": "OH",
+        "zip": "43062",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD9",
+        "address": "Alum Creek Drive",
+        "city": "Obetz",
+        "state": "OH",
+        "zip": "43207",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UOH1",
+        "address": "Winton Hills",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zip": "45232",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UOH2",
+        "address": "3563 Interchange Rd",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43204",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "OKC5",
+        "address": "1414 S. Council Rd",
+        "city": "Oklahoma City",
+        "state": "OK",
+        "zip": "73179",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DP01",
+        "address": "",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "75234",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PDX5",
+        "address": "5647 NW Huffman Street",
+        "city": "Washington, Hillsboro",
+        "state": "OR",
+        "zip": "97124",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PDX6",
+        "address": "15000 N Lombard St",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97203",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PDX7",
+        "address": "4775 Depot Ct SE",
+        "city": "Salem",
+        "state": "OR",
+        "zip": "97317",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PDX9",
+        "address": "1250 NW Swigert Way",
+        "city": "Troutdale",
+        "state": "OR",
+        "zip": "97060",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UOR1",
+        "address": "2250 Northwest 22nd Avenue",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97210",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ABE1",
+        "address": "705 Boulder Dr",
+        "city": "Breinigsville",
+        "state": "PA",
+        "zip": "18105",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABE2",
+        "address": "705 Boulder Drive",
+        "city": "Breinigsville",
+        "state": "PA",
+        "zip": "18031",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABE3",
+        "address": "650 Boulder Drive",
+        "city": "Breinigsville",
+        "state": "PA",
+        "zip": "18031",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABE4",
+        "address": "1610 Van Buren Road",
+        "city": "Easton",
+        "state": "PA",
+        "zip": "18045",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ABE5",
+        "address": "100 Quality Circle Suite 107",
+        "city": "Harrisburg",
+        "state": "PA",
+        "zip": "17112",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "AVP1",
+        "address": "550 Oak Ridge Road",
+        "city": "Hazleton",
+        "state": "PA",
+        "zip": "18202",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "AVP2",
+        "address": "298 1st Ave",
+        "city": "Gouldsboro",
+        "state": "PA",
+        "zip": "18424",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "AVP3",
+        "address": "289 1st Ave, Gouldsboro pa",
+        "city": "Wayne",
+        "state": "PA",
+        "zip": "18424",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "AVP6",
+        "address": "1 Commerce Rd",
+        "city": "Pittston",
+        "state": "PA",
+        "zip": "18640",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "AVP8",
+        "address": "250 Enterprise Way",
+        "city": "Pittston",
+        "state": "PA",
+        "zip": "18640",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "DPH1",
+        "address": "4219 Richmond Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19137",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "MDT1",
+        "address": "2 Ames Drive",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17015",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL4",
+        "address": "21 Roadway Dr",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17015",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL5",
+        "address": "500 McCarthy Dr. Fairview Business Park",
+        "city": "Lewisberry",
+        "state": "PA",
+        "zip": "17339",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL6",
+        "address": "675 Allen Rd",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17015",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PHL9",
+        "address": "2 Ames Drive",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17015",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PIT1",
+        "address": "2250 Roswell Drive",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15205",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PIT5",
+        "address": "2250 Roswell Drive",
+        "city": "Pittsburg",
+        "state": "PA",
+        "zip": "15205",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "PPA1",
+        "address": "545 Oak Hill Road",
+        "city": "Mountaintop",
+        "state": "PA",
+        "zip": "18707",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VAVP",
+        "address": "250 Enterprise Way",
+        "city": "Pittston",
+        "state": "PA",
+        "zip": "18640",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUAV",
+        "address": "1 Commerce Road",
+        "city": "Pittston",
+        "state": "PA",
+        "zip": "18640",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUBA",
+        "address": "1000 Keystone Industrial Park",
+        "city": "Scranton",
+        "state": "PA",
+        "zip": "18512",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUGA",
+        "address": "508 Delaware Ave West",
+        "city": "Pittston",
+        "state": "PA",
+        "zip": "18643",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "VUGP",
+        "address": "234 Walnut Bottom Road",
+        "city": "Shippensburg",
+        "state": "PA",
+        "zip": "17257",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSC",
+        "address": "40 Logistics Dr",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17013",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "XUSG",
+        "address": "9645 West Hills Court",
+        "city": "Kutztown",
+        "state": "PA",
+        "zip": "19530",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CAE1",
+        "address": "4400 12 Street Extension",
+        "city": "West Columbia",
+        "state": "SC",
+        "zip": "29172",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CAE3",
+        "address": "222 Old Wire Road",
+        "city": "West Columbia",
+        "state": "SC",
+        "zip": "29172",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "CHS1",
+        "address": "7290 Investment Drive",
+        "city": "N Charleston",
+        "state": "SC",
+        "zip": "29418",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "GSP1",
+        "address": "402 John Dodd Rd",
+        "city": "Spartanburg",
+        "state": "SC",
+        "zip": "29303",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BNA1",
+        "address": "14840 Central Pike Suite 190",
+        "city": "Lebanon",
+        "state": "TN",
+        "zip": "37090",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BNA2",
+        "address": "500 Duke Dr",
+        "city": "Lebanon",
+        "state": "TN",
+        "zip": "37090",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BNA3",
+        "address": "2020 Joe B Jackson Pkwy",
+        "city": "Murfreesboro",
+        "state": "TN",
+        "zip": "37127",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BNA4",
+        "address": "50 Airways Blvd.",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37217",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "BNA5",
+        "address": "50 Airways Blvd.",
+        "city": "Nashville",
+        "state": "TN",
+        "zip": "37217",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CHA1",
+        "address": "7200 Discovery Drive",
+        "city": "Chattanooga",
+        "state": "TN",
+        "zip": "37416",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "CHA2",
+        "address": "225 Infinity Dr NW",
+        "city": "Charleston",
+        "state": "TN",
+        "zip": "37310",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MEM1",
+        "address": "3292 E Holmes Rd",
+        "city": "Memphis",
+        "state": "TN",
+        "zip": "38118",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MEM5",
+        "address": "5155 CITATION DR.",
+        "city": "MEMPHIS",
+        "state": "TN",
+        "zip": "38118",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DDC1",
+        "address": "12401 North Stemmons Fwy.",
+        "city": "Farmers Branch",
+        "state": "TX",
+        "zip": "75234",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DFW1",
+        "address": "2700 Regent Blvd",
+        "city": "DFW Airport",
+        "state": "TX",
+        "zip": "75261",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DFW6",
+        "address": "940 W Bethel Road",
+        "city": "Coppell",
+        "state": "TX",
+        "zip": "75019",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DFW7",
+        "address": "700 Westport Parkway",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76177",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DFW8",
+        "address": "2700 Regent Blvd.",
+        "city": "Irving",
+        "state": "TX",
+        "zip": "75063",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DFW9",
+        "address": "2700 Regent Blvd",
+        "city": "Irving",
+        "state": "TX",
+        "zip": "75063",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DWF9",
+        "address": "2700 Regent Blvd.",
+        "city": "Irving",
+        "state": "TX",
+        "zip": "75063",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW1",
+        "address": "33333 LBJ Freeway",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75241",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW2",
+        "address": "2701 Bethel Road",
+        "city": "DeSoto",
+        "state": "TX",
+        "zip": "75261",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW3",
+        "address": "15201 Heritage Pkwy",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76177",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW4",
+        "address": "4601 Gold Spike Drive",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76106",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW6",
+        "address": "2601 W. Bethel Road",
+        "city": "DFW Airport",
+        "state": "TX",
+        "zip": "76051",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW7",
+        "address": "944 West Sandy Lake Rd",
+        "city": "Coppell",
+        "state": "TX",
+        "zip": "75019",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "FTW8",
+        "address": "3351 Balmorhea Dr",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75241",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "PTX1",
+        "address": "2101 Danieldale Road",
+        "city": "Lancaster",
+        "state": "TX",
+        "zip": "75134",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBD6",
+        "address": "4800 LBJ Freeway",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75241",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TBDA",
+        "address": "1300 East McCarty Lane",
+        "city": "San Marcos",
+        "state": "TX",
+        "zip": "78666",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TTX4",
+        "address": "6627 Maple Avenue",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75235",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UTX7",
+        "address": "4601 Gold Spike Drive",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76106",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UTX8",
+        "address": "2800 S Texas Avenue Suite 401",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "77802",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUKH",
+        "address": "1901 W Airfield Dr",
+        "city": "DFW Airport",
+        "state": "TX",
+        "zip": "75261",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUPJ",
+        "address": "101 Mars Road",
+        "city": "Wilmer",
+        "state": "TX",
+        "zip": "75172",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "VUPO",
+        "address": "4808 Mountain Creek Parkway",
+        "city": "Dallas",
+        "state": "TX",
+        "zip": "75236",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "XUSB",
+        "address": "14900 Frye Rd",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76155",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DAL6",
+        "address": "4601 Gold Spike Drive",
+        "city": "Fort Worth",
+        "state": "TX",
+        "zip": "76106",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DAL9",
+        "address": "1400 SOUTHPORT PKWY",
+        "city": "WILMER",
+        "state": "TX",
+        "zip": "75172",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "DAU1",
+        "address": "2093-2209 Rutland Dr",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78758",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HOU1",
+        "address": "8120 Humble Westfield Rd.",
+        "city": "Humble",
+        "state": "TX",
+        "zip": "77338",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HOU2",
+        "address": "Interstate 45 North and Beltway 8",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77038",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HOU3",
+        "address": "31555 Highway 90 E",
+        "city": "Brookshire",
+        "state": "TX",
+        "zip": "77423",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HOUX",
+        "address": "2701 W Bethel Road",
+        "city": "Coppell",
+        "state": "TX",
+        "zip": "75261",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HTX1",
+        "address": "4221 Way Out West Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77092",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "HTX2",
+        "address": "4221 Way Out West Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77092",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "ITX1",
+        "address": "",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77064",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "ITX2",
+        "address": "",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77040",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SAT1",
+        "address": "6000 Enterprise Avenue",
+        "city": "Schertz",
+        "state": "TX",
+        "zip": "78154",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SAT2",
+        "address": "1401 E McCarty Lane",
+        "city": "San Marcos",
+        "state": "TX",
+        "zip": "78666",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SAT5",
+        "address": "1410 S. Callaghan Road",
+        "city": "Bexar. San Antonio",
+        "state": "TX",
+        "zip": "78227",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TAM1",
+        "address": "2800 S Texas Avenue Suite 401",
+        "city": "Bryan",
+        "state": "TX",
+        "zip": "77802",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TTX2",
+        "address": "2209 Rutland Dr Ste B110",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "78758",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "TTX3",
+        "address": "4221 Way Out West Drive",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77092",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UTX1",
+        "address": "",
+        "city": "Irving",
+        "state": "TX",
+        "zip": "75014",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UTX2",
+        "address": "",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "73301",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UTX3",
+        "address": "",
+        "city": "Houston",
+        "state": "TX",
+        "zip": "77001",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "SLC1",
+        "address": "777 North 5600 West",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip": "84116",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BWI1",
+        "address": "45121 Global Plaza",
+        "city": "Sterling",
+        "state": "VA",
+        "zip": "20166",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BWI4",
+        "address": "165 Business Blvd",
+        "city": "Clear Brook",
+        "state": "VA",
+        "zip": "22624",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "BWI6",
+        "address": "5617 Industrial Drive",
+        "city": "Springfield",
+        "state": "VA",
+        "zip": "22151",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UVA1",
+        "address": "5617 Industrial Dr. Suite A",
+        "city": "Springfield",
+        "state": "VA",
+        "zip": "22151",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "ORF1",
+        "address": "3516 South Military Hwy",
+        "city": "Chesapeake",
+        "state": "VA",
+        "zip": "23323",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "RIC1",
+        "address": "5000 Commerce Way",
+        "city": "Petersburg",
+        "state": "VA",
+        "zip": "23803",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "RIC2",
+        "address": "1901 Meadowville Technology Pkwy",
+        "city": "Chester",
+        "state": "VA",
+        "zip": "23836",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "RIC3",
+        "address": "1901 Meadowville Technology Parkway",
+        "city": "Chesterfield",
+        "state": "VA",
+        "zip": "23836",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "RIC5",
+        "address": "11600 East Lakeridge Parkway",
+        "city": "Ashland",
+        "state": "VA",
+        "zip": "23005",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UVA2",
+        "address": "",
+        "city": "Chesapeake",
+        "state": "VA",
+        "zip": "",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "UVA3",
+        "address": "2034 Dabney Road",
+        "city": "Richmond",
+        "state": "VA",
+        "zip": "23230",
+        "region": "East",
+        "isRemote": false
+    },
+    {
+        "code": "*XFR",
+        "address": "2021 7th Avenue",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98121",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI1",
+        "address": "1800 140th Avenue Suite A",
+        "city": "Sumner",
+        "state": "WA",
+        "zip": "98390",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI3",
+        "address": "2700 Center Drive",
+        "city": "DuPont",
+        "state": "WA",
+        "zip": "98327",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI4",
+        "address": "21005 64th Ave S",
+        "city": "Kent",
+        "state": "WA",
+        "zip": "98032",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI5",
+        "address": "20529 59th Place South, Building B",
+        "city": "Kent",
+        "state": "WA",
+        "zip": "98032",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI6",
+        "address": "20202 84th Avenue South",
+        "city": "Kent",
+        "state": "WA",
+        "zip": "98032",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFI7",
+        "address": "1901 140th Ave E",
+        "city": "Sumner",
+        "state": "WA",
+        "zip": "98390",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "BFIX",
+        "address": "1800 140th Avenue Suite XB",
+        "city": "Sumner",
+        "state": "WA",
+        "zip": "98390",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DSE2",
+        "address": "6705 E Marginal Way",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98108",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "FSE2",
+        "address": "5100 15th Ave NW",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98107",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "FSE3",
+        "address": "76 South Lander Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98134",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "HWA1",
+        "address": "11710 118th Ave NE, Building B",
+        "city": "Kirkland",
+        "state": "WA",
+        "zip": "98034",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "HWA2",
+        "address": "11710 118th Ave NE, Building B",
+        "city": "Kirkland",
+        "state": "WA",
+        "zip": "98034",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "ISE2",
+        "address": "1227 124th Ave NE Building 2 Suite A200",
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98004",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "PWA1",
+        "address": "2309 Milwaukee Way",
+        "city": "Tacoma",
+        "state": "WA",
+        "zip": "98421",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SEA6",
+        "address": "2646 Rainier Ave. South",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98144",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "SEA8",
+        "address": "124th Ave NE Building 2 Suite A200",
+        "city": "Bellevue",
+        "state": "WA",
+        "zip": "98004",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "TWA0",
+        "address": "13537 Aurora Ave N",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98133",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UTX4",
+        "address": "PO Box 80387",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98108",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UWA1",
+        "address": "11710 118th Ave. N.E., Building B",
+        "city": "Kirkland",
+        "state": "WA",
+        "zip": "98034",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UWA2",
+        "address": "13537 Aurora Ave. N.",
+        "city": "North Seattle",
+        "state": "WA",
+        "zip": "98133",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UWA3",
+        "address": "2121 8th Ave.",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98121",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "UWA4",
+        "address": "76 S Lander Street",
+        "city": "Seattle",
+        "state": "WA",
+        "zip": "98134",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "VUPM",
+        "address": "22001 84th Avenue",
+        "city": "Kent",
+        "state": "WA",
+        "zip": "98032",
+        "region": "West",
+        "isRemote": false
+    },
+    {
+        "code": "DML1",
+        "address": "3935 W. Mitchell St.",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53125",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MKE1",
+        "address": "3501 120th Ave",
+        "city": "Kenosha",
+        "state": "WI",
+        "zip": "53144",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "MKE5",
+        "address": "11211 Burlington Road",
+        "city": "Kenosha",
+        "state": "WI",
+        "zip": "53144",
+        "region": "Other",
+        "isRemote": false
+    },
+    {
+        "code": "UWI1",
+        "address": "4111 W Mitchell Street",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53215",
+        "region": "Other",
+        "isRemote": false
+    }
+]
